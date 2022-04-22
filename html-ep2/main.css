@@ -1,0 +1,32 @@
+    .class0
+        {
+            text-align: center; margin: auto; border: 1px solid red; width:fit-content; border-radius: 10px;
+        }
+    .class1
+        {
+            color:rgb(39, 126, 44); font-size: 60px; text-align: center; font-weight: bold;
+        }
+    .class2
+        {
+            font-size: 20px; color: yellowgreen; text-align: center;
+        }
+    .class3
+        {
+            font-size: 20px; color: rgb(78, 50, 205); text-align: center;
+        }
+    .class4
+        {
+            font-size: 20px; color: rgb(0, 255, 234); text-align: left; text-decoration: underline;
+        }
+    .class5
+        {
+            font-size: 20px; color: rgb(255, 102, 0); text-align: left;
+        }
+    .class6
+        {
+            font-size: 40px; font-weight: 50px; color: rgb(56, 51, 122); text-align: center;
+        }
+    .class7
+        {
+            font-size: 20px; font-weight: 50px; color: rgb(6, 126, 110); text-align: center;
+        }
